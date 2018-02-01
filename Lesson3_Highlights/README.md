@@ -5,7 +5,7 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(February 1, 2018)
 
 ## Student Name:  
 (First and Last Name)
