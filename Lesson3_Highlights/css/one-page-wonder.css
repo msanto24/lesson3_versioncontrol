@@ -12,7 +12,7 @@ body {
     display: block;
     width: 100%;
     text-align: center;
-    background: url('http://placehold.it/1900x500') no-repeat center center scroll;
+    background: url("http://www.goldenrural.org/wp-content/uploads/2016/04/internet.jpg") no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -22,6 +22,14 @@ body {
 .headline {
     padding: 120px 0;
 }
+
+.headline h3 {
+    font-size: 25px;
+    background: #fff;
+    background: rgba(255,255,255,0.9);
+}
+
+
 
 .headline h1 {
     font-size: 130px;
@@ -145,9 +153,7 @@ footer {
 
 @media(max-width:640px) {
     .headline {
-        padding: 75px 0 25px 0;
-    }
-
+        padding: 75px 0 25p
     .headline h1 {
         font-size: 60px;
     }
